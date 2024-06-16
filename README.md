@@ -1,9 +1,9 @@
-# To-Do-List-Controle-Financeiro
+# Controle financeiro - CRUD completo
 Projeto em React de controle financeiro para gerenciamento de valores de entradas e saidas e calculo de saldo final.
 
-# Neste projeto é preciso realizar as seguintes instalações
+### Neste projeto é preciso realizar as seguintes instalações
 
-Node.js
+Node.js <br>
 Vs Code
 
 
