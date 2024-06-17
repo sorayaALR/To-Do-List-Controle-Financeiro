@@ -7,7 +7,7 @@ Projeto em React de controle financeiro para gerenciamento de valores de entrada
 ### Neste projeto é preciso realizar as seguintes instalações
 
 Node.js <br>
-React.js
+React.js<br>
 Vs Code
 
 
